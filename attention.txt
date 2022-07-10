@@ -1,0 +1,6 @@
+
+In order to save the user's data, you must run the db.json file before running the project
+to run the Json file you need to run the following command in CMD:
+json-server --watch db.json
+then you can minimize the CMD and run the project
+enjoy <3
